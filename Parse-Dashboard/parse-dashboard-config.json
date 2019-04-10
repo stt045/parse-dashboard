@@ -1,8 +1,8 @@
 {
   "apps": [{
-    "serverURL": "http://localhost:1337/parse",
-    "appId": "hello",
-    "masterKey": "world",
+    "serverURL": "http://yourappname.herokuapp.com/parse",
+    "appId": "ParstaGram",
+    "masterKey": "MyMasterKey",
     "appName": "",
     "iconName": "",
     "primaryBackgroundColor": "",
